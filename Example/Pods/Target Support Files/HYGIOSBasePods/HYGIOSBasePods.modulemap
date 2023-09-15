@@ -1,0 +1,6 @@
+framework module HYGIOSBasePods {
+  umbrella header "HYGIOSBasePods-umbrella.h"
+
+  export *
+  module * { export * }
+}
